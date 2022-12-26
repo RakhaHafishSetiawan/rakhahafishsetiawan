@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)
 
-- 💬 Ask me about **Research Data Analysis**
+- 💬 Ask me about **Power BI Development**
 
 - 📫 How to reach me **rakha.hafish@gmail.com**
 
