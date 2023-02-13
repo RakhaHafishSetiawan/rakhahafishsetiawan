@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Supervised Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)
+- 👨‍💻 All of my projects are available here at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)
 
 - 💬 Ask me about **Power BI Development**
 
