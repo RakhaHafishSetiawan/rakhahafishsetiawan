@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [sliceR](https://github.com/RakhaHafishSetiawan/sliceR)
 
-- 🌱 I’m currently learning **Supervised Machine Learning**
+- 🌱 I’m currently learning **Power BI Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)
 
-- 💬 Ask me about **Research Data Analysis**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **rakha.hafish@gmail.com**
 
