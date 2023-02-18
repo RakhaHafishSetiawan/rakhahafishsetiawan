@@ -1,17 +1,20 @@
-<h1 align="center">Hello 👋, I'm Rakha Hafish Setiawan</h1>
+<h1 align="center">Hello There! I'm Rakha Hafish Setiawan</h1>
 <h3 align="center">Student of Information Science and Aspiring Data Analyst</h3>
 
 - 🔭 I’m currently working on [sliceR](https://github.com/RakhaHafishSetiawan/sliceR)
 
-- 🌱 I’m currently learning **Power BI Development**
+- 🌱 I’m currently learning **Supervised Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Research Data Analysis**
 
 - 📫 How to reach me **rakha.hafish@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rakha-hafish-setiawan-5a3a06236/](https://www.linkedin.com/in/rakha-hafish-setiawan-5a3a06236/)
+
+<h3 align="left">My Statistics:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakhahafishsetiawan&show_icons=true&locale=en" alt="rakhahafishsetiawan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
