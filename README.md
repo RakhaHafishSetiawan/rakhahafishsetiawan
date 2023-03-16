@@ -13,6 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rakha-hafish-setiawan-5a3a06236/](https://www.linkedin.com/in/rakha-hafish-setiawan-5a3a06236/)
 
+<h3> My Statistics </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakhahafishsetiawan&show_icons=true&locale=en&layout=compact" alt="rakhahafishsetiawan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakhahafishsetiawan&show_icons=true&locale=en" alt="rakhahafishsetiawan" /></p>
