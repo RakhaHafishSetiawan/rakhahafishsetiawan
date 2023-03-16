@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [sliceR](https://github.com/RakhaHafishSetiawan/sliceR)
 
-- 🌱 I’m currently learning **Arduino Development**
+- 🌱 I’m currently learning **Arduino**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)
 
