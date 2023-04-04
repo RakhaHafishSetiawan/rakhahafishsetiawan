@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Rakha Hafish Setiawan</h1>
-<h3 align="center">Student of Information Science and Data Analyst</h3>
+<h3 align="center">Student of Information and Library Science and Data Analyst</h3>
 
 - 🔭 I’m currently working on [sliceR](https://github.com/RakhaHafishSetiawan/sliceR)
 
