@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Rakha Hafish Setiawan</h1>
-<h3 align="center">Student of Information and Library Science and Data Engineer</h3>
+<h3 align="center">Library and Information Science Graduate and Data Engineer</h3>
 
 # 💫 About Me:
 <br>• 🔭 I’m currently working on [sliceR](https://github.com/RakhaHafishSetiawan/sliceR)<br><br>• 🌱 I’m currently learning **Arduino**<br><br>• 👨‍💻 All of my projects are available at [https://github.com/RakhaHafishSetiawan](https://github.com/RakhaHafishSetiawan)<br><br>• 💬 Ask me about **MS Power BI Development**<br><br>• 📫 How to reach me **rakha.hafish@gmail.com**<br><br>• 📄 Know about my experiences [https://www.linkedin.com/in/rakha-hafish-setiawan-5a3a06236/](https://www.linkedin.com/in/rakha-hafish-setiawan-5a3a06236/)
