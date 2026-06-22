@@ -12,11 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RakhaHafishSetiawan&theme=nightowl&hide_border=false)<br/>
 
 # 📚 Publications and Patents:
-• **Homophily in Southeast Asian University Collaborations: Evaluating Internationalization and Collaboration Through Bibliometric Collaboration Data** - Cogent Education 2025 - [https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2590867](https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2590867) <br><br>
-• **Automatic Humidity Monitoring System for Archive Preservation: Integration of Arduino with ISO 11799:2016 Standard - Knowledge Garden 2025** - [https://jkg.ub.ac.id/index.php/jkg/article/view/30/25](https://jkg.ub.ac.id/index.php/jkg/article/view/30/25) <br><br>
-• **INKLUSIVITAS GENDER DALAM TOP MANAGEMENT PADA PERGURUAN TINGGI NEGERI DI INDONESIA** - Mediasosian 2024 - [https://hal.science/hal-04564318v1/document](https://hal.science/hal-04564318v1/document) <br><br>
-• **Sistem Otomasi Pengendalian Kelembaban Udara Untuk Preservasi Arsip Bahan Kertas** - Patent Granted IDD000081340 - [https://pdki-indonesia.dgip.go.id/detail/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855](https://pdki-indonesia.dgip.go.id/detail/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855) <br><br>
-• **PROTOTIPE ALAT ASESMEN KELEMBABAN RELATIF UNTUK ASISTENSI PRESERVASI ARSIP BERBASIS KERTAS** - Patent Granted IDD000080931 - [https://pdki-indonesia.dgip.go.id/link/4130303230323430353838347c6469](https://pdki-indonesia.dgip.go.id/link/4130303230323430353838347c6469) <br><br>
+• 📄 **Homophily in Southeast Asian University Collaborations: Evaluating Internationalization and Collaboration Through Bibliometric Collaboration Data** - Cogent Education 2025 - [https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2590867](https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2590867) <br><br>
+• 📄 **Automatic Humidity Monitoring System for Archive Preservation: Integration of Arduino with ISO 11799:2016 Standard - Knowledge Garden 2025** - [https://jkg.ub.ac.id/index.php/jkg/article/view/30/25](https://jkg.ub.ac.id/index.php/jkg/article/view/30/25) <br><br>
+• 📄 **INKLUSIVITAS GENDER DALAM TOP MANAGEMENT PADA PERGURUAN TINGGI NEGERI DI INDONESIA** - Mediasosian 2024 - [https://hal.science/hal-04564318v1/document](https://hal.science/hal-04564318v1/document) <br><br>
+• 🎖️**Sistem Otomasi Pengendalian Kelembaban Udara Untuk Preservasi Arsip Bahan Kertas** - Patent Granted IDD000081340 - [https://pdki-indonesia.dgip.go.id/detail/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855](https://pdki-indonesia.dgip.go.id/detail/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855) <br><br>
+• 🎖️**PROTOTIPE ALAT ASESMEN KELEMBABAN RELATIF UNTUK ASISTENSI PRESERVASI ARSIP BERBASIS KERTAS** - Patent Granted IDD000080931 - [https://pdki-indonesia.dgip.go.id/link/4130303230323430353838347c6469](https://pdki-indonesia.dgip.go.id/link/4130303230323430353838347c6469) <br><br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
